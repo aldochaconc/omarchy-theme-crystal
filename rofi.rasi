@@ -1,0 +1,24 @@
+/**
+ * Crystal (Kanso Zen) — rofi color palette
+ */
+
+* {
+    background-color: #090E13;
+    border-color:     #1C1E25;
+    text-color:       #dcd7ba;
+    font:             "Monaco 10";
+}
+
+prompt {
+    text-color: #8BA4B0;
+}
+
+entry {
+    text-color:        #dcd7ba;
+    placeholder-color: #9E9B93;
+}
+
+element selected {
+    background-color: #24262D;
+    text-color:       #8BA4B0;
+}

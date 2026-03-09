@@ -1,8 +1,11 @@
 @define-color foreground #dcd7ba;
-@define-color background rgba(31, 31, 40, 0.20);
+@define-color background rgba(9, 14, 19, 0.20);
+@define-color indicator-active #a55555;
+@define-color battery-warning #E6C384;
+@define-color battery-critical #E46876;
 
 window#waybar {
-  background-color: rgba(31, 31, 40, 0.20);
+  background-color: @background;
 }
 
 window#waybar * {
