@@ -3,6 +3,8 @@
 A dark theme for [Omarchy](https://omarchy.com) built on [Kanso Zen](https://github.com/webhooked/kanso-vscode) backgrounds with Kanagawa-warm foreground for readability.
 
 ![preview](preview.png)
+![preview2](preview2.png)
+![preview3](preview_3.png)
 
 ## Install
 
