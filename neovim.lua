@@ -41,6 +41,7 @@ return {
 		priority = 1000,
 		opts = {
 			background = { dark = "zen" },
+			foreground = "saturated",
 			colors = {
 				palette = {
 					-- Map colors.toml → Kanso palette
